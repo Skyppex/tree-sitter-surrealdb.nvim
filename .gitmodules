@@ -1,0 +1,3 @@
+[submodule "tree-sitter-surrealql"]
+	path = tree-sitter-surrealql
+	url = https://github.com:Skyppex/tree-sitter-surrealql.git
